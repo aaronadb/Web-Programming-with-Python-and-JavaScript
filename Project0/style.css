@@ -1,0 +1,44 @@
+*
+{
+	margin:0;
+	padding:0;
+	font-family:'arial',sans-serif;
+}
+div
+{
+	position:relative;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.main
+{
+	margin-top:200px;
+}
+.adv_main
+{
+	padding:1%;
+	justify-content:left;
+	align-items:left;	
+}
+.links
+{
+	column-gap:80%
+}
+.searchbutton
+{
+	background-color:#F8F9FA;
+	border-style:none;
+	margin:11px 4px;
+	padding:8px 16px;
+}
+.adv_element li
+{
+	display:inline-flex;
+	padding:1%;
+	justify-content:left;
+}
+td
+{
+	padding:0.5%;
+}
